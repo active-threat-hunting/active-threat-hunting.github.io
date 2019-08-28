@@ -31,3 +31,7 @@
 #page-nav input:checked ~ ul {
   display: block;
 }
+
+#hamburger {
+  visibility: hidden;
+}
