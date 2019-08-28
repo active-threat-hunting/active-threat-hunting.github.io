@@ -8,6 +8,16 @@ Use the Active Threat Hunting tools to build your own SOC and find suspicious ac
 
 ## Our Tools:
 
+[Ansible](https://github.com/ansible/ansible)
+
+[Docker](https://docker.com)
+
+[Elastic Stack](https://www.elastic.co/products/)
+
+[Kolide Fleet](https://github.com/kolide/fleet)
+
+[RedCloud](https://github.com/khast3x/Redcloud)
+
 
 ## Our Philosophy:
 
