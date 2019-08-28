@@ -1,6 +1,11 @@
 ---
 ---
 
+$conifer: #b5e853;
+header {
+  border-bottom: 1px solid #333; //header;
+}
+
 @import "{{ site.theme }}";
 
 
