@@ -12,6 +12,14 @@
   <body>
 
     <header>
+      <div class="menu" onclick="javascript: this.classList.toggle('active');">
+        <i class="line">
+          <ul class="nav">
+            <li><a href="/">home</a></li>
+            <li><a href="/register.html">register</a></li>
+          </ul>
+        </i><i class="line"></i><i class="line"></i>
+      </div>
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
