@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+html * {
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
 
 /* hamburger menu css */
 
