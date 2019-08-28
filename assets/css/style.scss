@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+html * {
+  font-family: Times;
+}
 
 /* hamburger menu css */
 
