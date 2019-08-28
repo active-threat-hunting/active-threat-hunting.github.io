@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 html * {
-  font-family: Times;
+  font-family: "Monaco", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", "Monospace";
 }
 
 /* hamburger menu css */
