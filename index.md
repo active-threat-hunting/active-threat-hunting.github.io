@@ -6,8 +6,6 @@ There are numerous threats targeting our organizations on a daily basis. Will yo
 
 Use the Active Threat Hunting tools to build your own SOC and find suspicious activity in your network more easily. We've provided the [source code for all of our tool deployments](https://github.com/heywoodlh/active-threat-hunting) to make it easier for anyone to replicate our deployments quickly. 
 
-Coming this [SaintCon 2019](https://saintcon.org/).
-
 ## Our Tools:
 
 
