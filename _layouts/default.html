@@ -10,16 +10,7 @@
   </head>
 
   <body>
-
     <header>
-      <div class="menu" onclick="javascript: this.classList.toggle('active');">
-        <i class="line">
-          <ul class="nav">
-            <li><a href="/">home</a></li>
-            <li><a href="/register.html">register</a></li>
-          </ul>
-        </i><i class="line"></i><i class="line"></i>
-      </div>
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
@@ -33,8 +24,22 @@
 	<a href="https://github.com/heywoodlh/active-threat-hunting" class="btn btn-github"><span class="icon"></span>View on Github</a>
       </div>
     </header>
+    <!-- [NAVIGATION BAR] -->
+    <nav id="page-nav">
+      <!-- [THE HAMBURGER] -->
+      <label for="hamburger">&#9776;</label>
+      <input type="checkbox" id="hamburger"/>
 
-    <div class="container">
+        <!-- [MENU ITEMS] -->
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="tech.html">Tech</a></li>
+          <li><a href="games.html">Games</a></li>
+          <li><a href="reviews.html">Reviews</a></li>
+        </ul>
+      </nav>
+      <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
