@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Active Threat Hunting
 
-You can use the [editor on GitHub](https://github.com/active-threat-hunting/active-threat-hunting.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Active Threat Hunting is an open source framework for more easily building a Security Operations Center to more easily detect malicious events in a network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are numerous threats targeting our organizations on a daily basis. Will you be able to find all the attacks and defend your organization if techniques and tools used by adversaries are unknown to you? In this event we will be putting you into teams and provide you an ability to learn how to use a variety of open source tools to shed some light on the hidden things going on in this simulated organization's network. 
 
-### Markdown
+Use the Active Threat Hunting tools to build your own SOC and find suspicious activity in your network more easily. We've provided the [source code for all of our tool deployments](https://github.com/heywoodlh/active-threat-hunting) to make it easier for anyone to replicate our deployments quickly. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coming this [SaintCon 2019](https://saintcon.org/).
 
-```markdown
-Syntax highlighted code block
+## Our Tools:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Our Philosophy:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/active-threat-hunting/active-threat-hunting.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There are many open source tools available for anyone to begin building their own world-class Security Operations Center. Our hope is to help others to see these tools in action and learn how to deploy and use these tools in their own environments.
