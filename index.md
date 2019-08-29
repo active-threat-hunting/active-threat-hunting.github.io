@@ -1,6 +1,6 @@
 ## Active Threat Hunting
 
-Active Threat Hunting is an open source framework for more easily building a Security Operations Center to more easily detect malicious events in a network.
+Active Threat Hunting is an open source framework for quickly building a Security Operations Center to easily detect malicious events in a network.
 
 There are numerous threats targeting our organizations on a daily basis. Will you be able to find all the attacks and defend your organization if techniques and tools used by adversaries are unknown to you? In this event we will be putting you into teams and provide you an ability to learn how to use a variety of open source tools to shed some light on the hidden things going on in this simulated organization's network. 
 
@@ -18,6 +18,9 @@ Use the Active Threat Hunting tools to build your own SOC and find suspicious ac
 
 [RedCloud](https://github.com/khast3x/Redcloud)
 
+[osTicket](https://github.com/osTicket/osTicket)
+
+[Proxmox](https://www.proxmox.com/en/)
 
 ## Our Philosophy:
 
