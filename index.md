@@ -22,6 +22,8 @@ Use the Active Threat Hunting tools to quickly build your own small SOC and find
 
 [Proxmox](https://www.proxmox.com/en/)
 
+[PFSense](https://www.pfsense.org/)
+
 ## Our Philosophy:
 
 There are many open source tools available for anyone to begin building their own world-class Security Operations Center. Our hope is to help others to see these tools in action and learn how to deploy and use these tools in their own environments.
