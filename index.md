@@ -2,9 +2,9 @@
 
 Active Threat Hunting is an open source framework for quickly building a Security Operations Center to easily detect malicious events in a network.
 
-There are numerous threats targeting our organizations on a daily basis. Will you be able to find all the attacks and defend your organization if techniques and tools used by adversaries are unknown to you? In this event we will be putting you into teams and provide you an ability to learn how to use a variety of open source tools to shed some light on the hidden things going on in this simulated organization's network. 
+There are numerous threats targeting our organizations on a daily basis. Will you be able to find all the attacks and defend your organization if techniques and tools used by adversaries are unknown to you?
 
-Use the Active Threat Hunting tools to build your own SOC and find suspicious activity in your network more easily. We've provided the [source code for all of our tool deployments](https://github.com/heywoodlh/active-threat-hunting) to make it easier for anyone to replicate our deployments quickly. 
+Use the Active Threat Hunting tools to quickly build your own small SOC and find suspicious activity in your network more easily. We've provided the [source code for all of our tool deployments](https://github.com/heywoodlh/active-threat-hunting) to make it easier for anyone to replicate our deployments quickly. 
 
 ## Our Tools:
 
